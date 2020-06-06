@@ -3,7 +3,7 @@ SET is a new cryptocurrency Token that addresses today's environmental
 pollution concerns, climate change effects and the health and fitness levels of
 the world’s citizens.
 
-The SET project promotes Eco-friendly products and environment savvy
+The SET project promotes Eco-friendly products and environment savvy.
 Technology on a DeCentralized Open Source Blockchain Platform. SET is a
 Rewards like discount Token, used for promoting the sale of anti-pollution
 products and createing an ecosystem for environmentally sustainable
